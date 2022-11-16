@@ -3,11 +3,19 @@
     None, Up, Button4, 3
     None, Down, Button5, 3
 
+"^microsoft-edge$"
+    None, Up, Button4, 3
+    None, Down, Button5, 3
+
 "^obsidian$"
     None, Up, Button4, 3
     None, Down, Button5, 3
 
 "^bitwarden$"
+    None, Up, Button4, 3
+    None, Down, Button5, 3
+
+"^ferdium$"
     None, Up, Button4, 3
     None, Down, Button5, 3
 
