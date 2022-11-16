@@ -1,0 +1,17 @@
+# chromium based scrolling fix
+"^chromium-freeworld$"
+    None, Up, Button4, 3
+    None, Down, Button5, 3
+
+"^obsidian$"
+    None, Up, Button4, 3
+    None, Down, Button5, 3
+
+"^bitwarden$"
+    None, Up, Button4, 3
+    None, Down, Button5, 3
+
+# enable back/forward mouse buttons for all apps
+".*"
+    None, Thumb1, Alt_L|Left
+    None, Thumb2, Alt_L|Right
