@@ -1,23 +1,27 @@
+# windows scrolling speed 120
+# linux scrollin speed 53
+# ratio = 2.26415094339623
+
 # chromium based scrolling fix
 "^chromium-freeworld$"
-    None, Up, Button4, 3
-    None, Down, Button5, 3
+    None, Up, Button4, 2.26415094339623
+    None, Down, Button5, 2.26415094339623
 
 "^microsoft-edge$"
-    None, Up, Button4, 3
-    None, Down, Button5, 3
+    None, Up, Button4, 2.26415094339623
+    None, Down, Button5, 2.26415094339623
 
 "^obsidian$"
-    None, Up, Button4, 3
-    None, Down, Button5, 3
+    None, Up, Button4, 2.26415094339623
+    None, Down, Button5, 2.26415094339623
 
 "^bitwarden$"
-    None, Up, Button4, 3
-    None, Down, Button5, 3
+    None, Up, Button4, 2.26415094339623
+    None, Down, Button5, 2.26415094339623
 
 "^ferdium$"
-    None, Up, Button4, 3
-    None, Down, Button5, 3
+    None, Up, Button4, 2.26415094339623
+    None, Down, Button5, 2.26415094339623
 
 # enable back/forward mouse buttons for all apps
 ".*"
